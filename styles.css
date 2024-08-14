@@ -1,3 +1,10 @@
+*
+{
+ margin:0;
+ padding:0;
+ box-sizing:boder-box;
+}
+
 .blinkit{
     margin-left: 5px;
     margin-right: 5px;
